@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Cloud-Space/static/css/main.37355215.chunk.css",
+    "main.js": "/Cloud-Space/static/js/main.183a3828.chunk.js",
+    "main.js.map": "/Cloud-Space/static/js/main.183a3828.chunk.js.map",
+    "runtime-main.js": "/Cloud-Space/static/js/runtime-main.6db5f294.js",
+    "runtime-main.js.map": "/Cloud-Space/static/js/runtime-main.6db5f294.js.map",
+    "static/js/2.15966043.chunk.js": "/Cloud-Space/static/js/2.15966043.chunk.js",
+    "static/js/2.15966043.chunk.js.map": "/Cloud-Space/static/js/2.15966043.chunk.js.map",
+    "static/js/3.60dce17e.chunk.js": "/Cloud-Space/static/js/3.60dce17e.chunk.js",
+    "static/js/3.60dce17e.chunk.js.map": "/Cloud-Space/static/js/3.60dce17e.chunk.js.map",
+    "index.html": "/Cloud-Space/index.html",
+    "static/css/main.37355215.chunk.css.map": "/Cloud-Space/static/css/main.37355215.chunk.css.map",
+    "static/js/2.15966043.chunk.js.LICENSE.txt": "/Cloud-Space/static/js/2.15966043.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6db5f294.js",
+    "static/js/2.15966043.chunk.js",
+    "static/css/main.37355215.chunk.css",
+    "static/js/main.183a3828.chunk.js"
+  ]
+}
